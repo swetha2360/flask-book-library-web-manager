@@ -17,7 +17,7 @@ A simple and clean web application built using Flask and SQLAlchemy to manage yo
 - Flask-SQLAlchemy  
 - Jinja2  
 
-##📁 Folder Structure
+## 📁 Folder Structure
 ```
 flask-book-library-web-manager/
 │
@@ -30,7 +30,7 @@ flask-book-library-web-manager/
 ├── requirements.txt
 └── README.md
 ```
-##🔍 Screenshot
+## 🔍 Screenshot
 ![Homepage]
 ![Screenshot 2025-05-24 224810](https://github.com/user-attachments/assets/e1cdc19e-488e-4003-b531-6e98fd07ed85)
 
